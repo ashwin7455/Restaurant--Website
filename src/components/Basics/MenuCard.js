@@ -13,6 +13,7 @@ const MenuCard = ({ menuData }) => {
                     <span className='card-number card-circle subtle'>{curElem.id}</span>
                     <span className='card-author subtle ' >breakfast</span>
                     <h2 className='card-title'>{curElem.name}</h2>
+                    <span className='card-raed card-author' >{curElem.price}</span>
                     <span className='card-description subtle'>
                        {curElem.description}
                     </span>
