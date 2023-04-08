@@ -19,7 +19,6 @@ const Restaurant = () => {
    const [menuData , setMenuData] = useState(Menu);
    const [menuList , setMenuList] = useState(uniqueList)
    console.log(menuData);
-//  const myStyle = { color: "red" }; 
    const filterItem = (category) => {
 
       if (category === "All") {
