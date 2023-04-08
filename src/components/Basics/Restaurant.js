@@ -29,7 +29,7 @@ const Restaurant = () => {
      const updatedList = Menu.filter((curlElem) => {
         return curlElem.category === category;
      });
-
+     setMenuList(uniqueList)
      setMenuData(updatedList);
    };
 
