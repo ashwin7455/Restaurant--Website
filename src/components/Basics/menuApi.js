@@ -83,10 +83,10 @@ const Menu = [
   },
   {
     id: 10,
-    image: "../images/samosa.jpg",
-    name: "Ashwin",
-    category: "Ashwin",
-    price: "10₹",
+    image: "../images/paubhaji.jpg",
+    name: "Pau bhaji",
+    category: "evening",
+    price: "160₹",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
